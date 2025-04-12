@@ -12,6 +12,7 @@
   *
   * @IO
   * 电压输入            PA0 -> ADC1_IN1
+  * 按键中断            PC13-> KEY
   *
   * @Attention
   * 80_100M频谱.HMI文件为对应串口屏程序
